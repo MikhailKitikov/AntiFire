@@ -1,0 +1,4 @@
+ƒатасеты изображений (классы 'fire' и 'normal')
+
+–азмеченный датасет находитс€ по ссылке: https://drive.google.com/file/d/1ycNYFV9muQbhvfM20L1amGsdL9Zj0aPE/view?usp=sharing
+”величенный датасет с добавленными видеокадрами: https://drive.google.com/file/d/1YR4G7nzdPdfpfk_2jh1ec916qpYBtxAh/view?usp=sharing
