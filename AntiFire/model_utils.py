@@ -146,7 +146,7 @@ def load_LSTM():
     model2.add(Dense(100, activation='relu'))
     model2.add(Dense(1, activation='sigmoid'))
 
-    weights_path = '../Models/Trained models/LSTM'
+    weights_path = '../Models/Trained models/LSTM.h5'
     model2.load_weights(weights_path)
     
     return model2
